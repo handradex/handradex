@@ -4,17 +4,15 @@
 - 📊 Foco em projetos que envolvam **análise, interpretação e visualização de dados** com aplicação real no mercado
 
 
-### 🧰 Tecnologias
+### 💻 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![SQL](https://img.shields.io/badge/SQL-f2f2f2?style=for-the-badge&logo=mysql&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-113182?style=for-the-badge&logo=pandas&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Numpy-177F96?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🧰 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📖 Leituras
 
@@ -27,6 +25,7 @@
 
 Lista completa de leituras [aqui](https://handradex.github.io/portfolio/leituras)
 
-- 🌐 [site](https://handradex.github.io/portfolio/)
-- 📷 [instagram](https://www.instagram.com/henriquenrc/)
-- 💼 [linkdin](https://www.linkedin.com/in/henrique-andrade99/)
+### Mais informações
+🌐 [site](https://handradex.github.io/portfolio/)
+📷 [instagram](https://www.instagram.com/henriquenrc/)
+💼 [linkdin](https://www.linkedin.com/in/henrique-andrade99/)
