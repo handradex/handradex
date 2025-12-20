@@ -26,6 +26,6 @@
 Lista completa de leituras [aqui](https://handradex.github.io/portfolio/leituras)
 
 ### Mais informações
-🌐 [site](https://handradex.github.io/portfolio/)
-📷 [instagram](https://www.instagram.com/henriquenrc/)
+🌐 [site](https://handradex.github.io/portfolio/)<br>
+📷 [instagram](https://www.instagram.com/henriquenrc/)<br>
 💼 [linkdin](https://www.linkedin.com/in/henrique-andrade99/)
