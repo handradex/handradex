@@ -1,18 +1,32 @@
-## 👋 Olá! Sou o Henrique Andrade (Handrade)
+## Henrique Andrade
 
 - 🎯 Profissional em transição de carreira para a área de **Análise de Dados e automação**
 - 📊 Foco em projetos que envolvam **análise, interpretação e visualização de dados** com aplicação real no mercado
 
 
-### 🧰 Tecnologias & Ferramentas
+### 🧰 Tecnologias
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FFCA28?style=for-the-badge&logo=mysql&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![SQL](https://img.shields.io/badge/SQL-f2f2f2?style=for-the-badge&logo=mysql&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-113182?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Numpy-177F96?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🧰 Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
+### 📖 Leituras
+
+**📚 Lendo**
+- Estatística: O que é, para que serve, como funciona
+
+📚 **Leituras para 2026**
+- O andar do bêbado: Como o acaso determina nossas vidas
+- Storytelling com Dados: um Guia Sobre Visualização de Dados Para Profissionais de Negócios
+
+Lista completa de leituras [aqui](https://handradex.github.io/portfolio/leituras)
+
+- 🌐 [site](https://handradex.github.io/portfolio/)
+- 📷 [instagram](https://www.instagram.com/henriquenrc/)
+- 💼 [linkdin](https://www.linkedin.com/in/henrique-andrade99/)
