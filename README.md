@@ -18,6 +18,7 @@
 
 **📚 Lendo**
 - Estatística: O que é, para que serve, como funciona
+- Diário Estoico: 366 Lições sobre sabedoria...
 
 📚 **Leituras para 2026**
 - O andar do bêbado: Como o acaso determina nossas vidas
