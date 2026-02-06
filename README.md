@@ -26,5 +26,5 @@
 ...
 
 ### Mais informações
-🌐 [site](https://handradex.github.io/portfolio/)<br>
+🌐 [site](https://handrade.lovable.app/)<br>
 💼 [linkdin](https://www.linkedin.com/in/henrique-andrade99/)
