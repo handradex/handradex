@@ -13,12 +13,11 @@
 ### 🌱 Estudando (Foco em 2026)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-113182?style=for-the-badge&logo=pandas&logoColor=white)
-![Numbpy](https://img.shields.io/badge/Numpy-177F96?style=for-the-badge&logo=numpy&logoColor=white)
+# ![Numbpy](https://img.shields.io/badge/Numpy-177F96?style=for-the-badge&logo=numpy&logoColor=white)
 ### 📖 Leituras
 
 **📚 Lendo**
-- Estatística: O que é, para que serve, como funciona
-- Diário Estoico: 366 Lições sobre sabedoria...
+- SQL Para Análise de Dados: Técnicas Avançadas Para Transformar Dados em Insights
 
 📚 **Leituras para 2026**
 - O andar do bêbado: Como o acaso determina nossas vidas
