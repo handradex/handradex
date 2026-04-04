@@ -14,6 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-113182?style=for-the-badge&logo=pandas&logoColor=white)
 # ![Numbpy](https://img.shields.io/badge/Numpy-177F96?style=for-the-badge&logo=numpy&logoColor=white)
+
 ### 📖 Leituras
 
 **📚 Lendo**
@@ -23,7 +24,3 @@
 - O andar do bêbado: Como o acaso determina nossas vidas
 - Storytelling com Dados: um Guia Sobre Visualização de Dados Para Profissionais de Negócios
 ...
-
-### Mais informações
-🌐 [site](https://handrade.lovable.app/)<br>
-💼 [linkdin](https://www.linkedin.com/in/henrique-andrade99/)
